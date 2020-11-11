@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  font-family: cursive;
+}
+
+hr{border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%;
+   margin-right: auto;
+   margin-left: auto;
+  margin-bottom: 0;
+  }
+
+h1{margin: 0;}
+
+.first-part{
+  background-color: #9ddfd3;
+  width: 100%;
+  height: 400px;
+
+}
+
+.first-h1{
+  font-size: 4em;
+  margin: 0;
+  margin-left: 250px;
+  text-align: center;
+  color: #065c6f;
+
+}
+
+.sun{
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.anina{
+  width: 150px;
+  height: 200px;
+  margin-top: 20px;
+  position: absolute;
+  right: 50px;
+}
+
+.first-h3{
+  float: right;
+  margin-right: 215px;
+  margin-top: 170px;
+  color: #065c6f;
+}
+
+.cloud1{
+  margin-left: 75px;
+}
+
+.cloud2{
+  position: absolute;
+  right: 450px;
+  top: 75px;
+}
+
+.cloud4{
+  position: absolute;
+  right:500px;
+  bottom: 400px;
+}
+
+.first-h4{
+  color: #065c6f;
+  margin: 0;
+  margin-right: 200px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* second part */
+.grad-img{
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+
+}
+
+.intern-img{
+  width: 150px;
+  height: 150px;
+  float: right;
+  margin-left: 30px;
+  margin-top: 80px;
+}
+
+.project-img{
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.second-part{
+  background-color: #dbf6e9;
+}
+
+.grad{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/* third part */
+.third-part{background-color: grey;}
+
+.third-p{margin-bottom: 0;
+padding: 20px;}
